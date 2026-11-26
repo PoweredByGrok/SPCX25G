@@ -39,7 +39,7 @@ The following steps offer a simple way to become familiar with the project while
 
 ## About SPCX25G
 
-SPCX25G is designed as an accessible digital-asset project centered on decentralized participation, convenient digital exchange, application-focused experimentation, and measured ecosystem development. It seeks to connect community involvement with practical Web3 possibilities while maintaining a long-term building perspective. 🔗 **[https://SPCX25G.org](https://SPCX25G.org)**
+SPCX25G is designed as an accessible digital-asset project centered on decentralized participation, convenient digital exchange, application-focused experimentation, and measured ecosystem development. It seeks to connect community involvement with practical Web3 possibilities while maintaining a long-term building perspective. 🔗 **[https://SPCX25G.com](https://SPCX25G.com)**
 
 
 # Community
